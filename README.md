@@ -28,16 +28,16 @@ Windows
 
 ## Tech
 
-**Tested on:** FlipperZero, RubberDucky
+**Tested on:** RubberDucky
 
-**Theroretically support:** BashBunny and any other DuckyScript capable product.
+**Theroretically support:** FlipperZero, BashBunny and any other DuckyScript capable product.
 
 ## Current Status:
 
-| Color             | Hex                                                                |
+| Hardware             |                                                                 |
 | ----------------- | ------------------------------------------------------------------ |
-| Flipper Zero | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| RubberDucky | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Flipper Zero | ![#e2ff03](https://via.placeholder.com/10/e2ff03?text=+) #e2ff03 |
+| RubberDucky | ![#03ff24](https://via.placeholder.com/10/03ff24?text=+) #03ff24 |
 
 ## Demo
 
