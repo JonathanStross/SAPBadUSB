@@ -34,7 +34,7 @@ Windows
 
 ## Current Status:
 
-| Hardware             |                                                                 |
+| Hardware             | Status                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Flipper Zero | ![#e2ff03](https://via.placeholder.com/10/e2ff03?text=+) Not Tested |
 | RubberDucky | ![#03ff24](https://via.placeholder.com/10/03ff24?text=+) Slow version is stable |
